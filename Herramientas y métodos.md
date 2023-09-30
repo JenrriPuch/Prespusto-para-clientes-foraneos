@@ -1,6 +1,6 @@
 # Herramientas y Métodos
 
-## Organización, monitoreo y gestión de tareas y trabajos
+## Organización y gestión de tareas 
 Nuestro equipo determinó que la manera más eficiente de organizarnos y monitorear las actividades era en forma presencial de tal modo que los días que teníamos pocas horas de clase proponíamos una junta para monitorear como iba el proyecto.
 
 ## Comunicación: cara a cara y WhatsApp
