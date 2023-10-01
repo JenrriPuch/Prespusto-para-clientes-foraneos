@@ -20,7 +20,7 @@ Los roles asiganados son los siguientes:
 
 - **Analyst:** Angel Bermudez Ruiz
     - Analiza problemas
-    - Resuelv problemas
+    - Resuelve problemas
     - Resuelve alguna contradicciones qué hay en el equipo
     - Sabe poner en orden las ideas
       
