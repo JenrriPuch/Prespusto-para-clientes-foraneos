@@ -82,34 +82,48 @@
 
 
 ### No funcionales:
-| RNF001   |      Tiempo de respuesta       |  
+| RNF001   |      App para nuevos usuarios     |  
 |----------|:-------------:|
-| Descripción | El sistema deberá contabilizar el tiempo que el usuario tarda en responder correctamente la encuesta |
-
+| Descripción | • El sistema debe ser fácil de usar para usuarios novatos
 ***
 <br>
 
 | RNF002   |      Privacidad de datos    |  
 |----------|:-------------:|
-| Descripción |  El sistema no debe revelar ninguna información personal sobre el usuario, exepto su nombre.|
+| Descripción |  El sistema deberá verificar los datos de los usuarios para una mejor seguridad|
 
 ***
 <br>
 
-| RNF003   |      Límite de carácteres   |  
+| RNF003   |      Verificacion  |  
 |----------|:-------------:|
-| Descripción |  El sistema solo permite un máximo de 15 carácteres en el campo de texto usuario.|
+| Descripción |El sistema deberá verificar si el usuario en cuestión es una persona real con un capchat  |
 <br>
 
 ***
-| RNF004   |      Límite de memoria por video   |  
+| RNF004   |      Sistema de guardado   |  
 |----------|:-------------:|
-| Descripción |  El sistema debe alojar los videos con un maximo de 100 Mb c/u, para que la carga de estos sea más rápida. |
+| Descripción |  El sistema será capaz de crear un guardado automático y un respaldo de estos mismos a los datos proporcionado. |
 <br>
 
 ***
-| RNF005  |      Calidad de video  |  
+| RNF005  |     Red para entrar |  
 |----------|:-------------:|
-| Descripción |  Los videos estarán renderizados en calidad 720p, para reproducirse de manera eficiente en la mayoria de las redes inalambricas.|
+| Descripción |  El sistema deberá estar añadida a una red wifi para que el usuario al conectarse tenga un mejor experiencia y rendimiento.|
 
 ***
+| RNF006 |     Sistema |  
+|----------|:-------------:|
+| Descripción |  El sistema debe ser capaz de operar hasta 100.000 usuarios con sesiones concurrentes.|
+
+| RNF007 |     administrador|  
+|----------|:-------------:|
+| Descripción |   El administrador será el único capaz de cambiar los permisos de acceso al sistema .|
+
+
+| RNF008 | telefono   |  
+|----------|:-------------:|
+| Descripción |   Sera un sistema hecho para un teléfono inteligente. .|
+
+
+
