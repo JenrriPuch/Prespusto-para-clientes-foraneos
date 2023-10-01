@@ -3,90 +3,106 @@
 # OBJETIVOS 
 Se creará un software para brindar una organización financiera a los estudiantes que vienen de otros lados, puede brindar un presupuesto y un reporte de gastos diario, semanal y mensual. A partir de un chat de inteligencia artificial te podrá comparar distintos sitios y recomendará la mejor opción para reducir gastos en comida, transporte y hospedaje.
 USUARIOS/CLIENTES 
-# Usuarios primarios: Nuestros clientes principales son estudiantes foráneos de la UMT. 
+# Usuarios primarios: 
+Nuestros clientes principales son estudiantes foráneos de la UMT. 
 Perfil de los usuarios primarios 
 - Edad: 17 a 27
 - Cursando alguna licenciatura en la UMT
-- Estudiantes que rentan 
-# Usuarios secundarios: Los dueños de los locales de la localidad de Tizimín, compañeros de estudiantes foráneos. 
+- Estudiantes que rentan
+
+# Usuarios secundarios: 
+Los dueños de los locales de la localidad de Tizimín, compañeros de estudiantes foráneos. 
 Perfil de los usuarios secundarios 
 - Tener algún negocio 
 - Tener algún transporte
+
 # Potenciales: Los maestros de la UMT 
 Perfil de los usuarios 
 - Maestros foráneos 
 - Maestros con dificultad para encontrar transporte 
 - Maestros que busquen un lugar economico para comer
-# PRopuesta de valor 
+
+# Propuesta de valor 
 Esta es una herramienta innovadora porque añade un chat con inteligencia artificial, que ayudara al usuario a contribuir a su gestión financiera, funcionara con localización GPS, brindara un reporte estadístico basado en un calendario de tus gastos diarios y semanales, al igual que te recomienda el dinero que puedes gastar diariamente y tus ahorros que administraste a la semana, también lo que te recomienda gastar en tus gustos personales.
-
-
-
 
 # Requerimientos
 
-## Requerimientos del sistema
-  
+## Requerimientos
+  Del 1 al 3 siendo el 3 el más alto y el 1 el mas bajo
 
 ### Funcionales: 
-| RF001   |      Gestor de videos      |  
+| RF01   |      Reporte de gatos     |  
 |----------|:-------------:|
-| Prioridad:| Alta |
-| Descripción |La url,nombre, título de cada video se almacena en una base de datos y mediante el gestor de videos, es posible borrarlos, modificarlos o agregar nuevo contenido.|
+| Prioridad:| 3 |
+| Descripción |Mostrar una opcion donde se muestre un reporte de los gastos, diarios, semanales y mensuales|
 
 ***
 <br>
 
-| RF002   |      Reproducción de video      |  
+| RF02   |      Calendario     |  
 |----------|:-------------:|
-| Prioridad:| Alta |
-| Descripción |El sistema es capaz de cargar un video desde el almacenamiento interno y los muestra al usuario en un reproductor embebido con sus respectivos controles (Play, Pausa, Mute, Control de volumen)|
+| Prioridad:| 3 |
+| Descripción |Mostrar una opcion de un calendario donde muestre el presupuesto de cada día|
 
 ***
 <br>
 
-| RF003   |       Interfaz Interactiva    |  
+| RF03   |       Recomendaciones de lugares  |  
 |----------|:-------------:|
-| Prioridad:| Media |
-| Descripción |El sistema mostrará los videos ocupando el 100% de la pantalla y cuando finalice la reproducción, mostrará una ventana flotante con una pregunta dirigida al usuario acerca del video. <br> El sistema mostrará la pregunta y sus respectivas respuestas en botones interactivos|
+| Prioridad:| 1 |
+| Descripción |Recomendara lugares cercanos y económicos que entren en el presupuesto del día según tu ubicación|
 
 ***
 <br>
 
-| RF004   |      Respuesta correcta      |  
+| RF04   |      Chat con IA     |  
 |----------|:-------------:|
-| Prioridad:| Media |
-| Descripción |Al responder una pregunta de manera correcta, el sistema cambiará de video y comenzará a reproducirse |
-
-***
-<br>
-
-
-| RF005   |      Respuesta incorrecta     |  
-|----------|:-------------:|
-| Prioridad:| Media |
-| Descripción |Al responder una pregunta de manera incorrecta, el sistema mostrará un mensaje "Respuesta incorrecta" y un botón para repetir el video.|
-
-***
-<br>
-
-| RF006   |      Usuario temporal      |  
-|----------|:-------------:|
-| Prioridad:| Baja |
-| Descripción |El sistema puede ingresar un nombre de usuario temporal al momento de empezar el video interactivo. <br>El sistema mostrará el nombre de usuario al momento de realizar las preguntas |
+| Prioridad:| 3 |
+| Descripción |Añadir un chat con inteligencia artificial que te recomienda en que gastar o ahorrar tu dinero y que te ayue a cualqueir duda que tengas respecto a tu presupuesto y igual a darte opciones en lo que puedas gastar|
 
 ***
 <br>
 
 
-| RF006   |      Registro de visitantes      |  
+| RF05   |      Encuesta de infromación     |  
 |----------|:-------------:|
-| Prioridad:| Baja |
-| Descripción |El sistema registra cada acción en el botón "Comenzar" y almacena esos valores en una base de datos. <br>El sistema contará con una pagina principal para mostrar la cantidad de usuarios que han probado el video interactivo |
+| Prioridad:| 3 |
+| Descripción |El sistema debe de tener la capacidad de elaborar una encuesta al iniciar sesión para tener una mayor información sobre el usuario  se pueda aplca todas la funciones de la app|
+
+***
+<br>
+
+| RF06   |      Inicio de sesión      |  
+|----------|:-------------:|
+| Prioridad:| 3 |
+| Descripción |Se implementará el inicio de sesión con una cuenta de Google o Microsoft para que sea más facil el inicio de sesión|
+
 ***
 <br>
 
 
+| RF07  |      Ahorros y gustos personales      |  
+|----------|:-------------:|
+| Prioridad:| 2 |
+| Descripción |Deberá tener la capacidad de dar una opción de gastos personales (gustos) y de ahorro de dinero para que cunado quieras ahcer alguna de las dos se registre en el sistema|
+***
+<br>
+
+
+| RF08  |      Localización     |  
+|----------|:-------------:|
+| Prioridad:| 2 |
+| Descripción |Funcionara con la localización GPS para saber en donde vives y podemos recomendar luegares ecrcanos donde comer o comprar comida|
+***
+<br>
+
+
+| RF07  |      Ahorros y gustos personales      |  
+|----------|:-------------:|
+| Prioridad:| 2 |
+| Descripción |Deberá tener la capacidad de dar una opción de gastos personales (gustos) y de ahorro de dinero para que cunado quieras ahcer alguna de las dos se registre en el sistema|
+***
+<br>
 
 
 
