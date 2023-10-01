@@ -13,6 +13,7 @@
 - [Roles](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/blob/main/Roles.md)
 - [Bitácora](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/blob/main/Bit%C3%A1cora.md)
 - [Competencias](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/blob/main/Competencias.md)
+- [Presentación del avance](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/blob/main/Presentaci%C3%B3n%20del%20Avance.md)
 
   # Links
   - [Repositorio](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos)
