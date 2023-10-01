@@ -5,7 +5,7 @@ Nuestro equipo determinó que la manera más eficiente de organizarnos y monitor
 
 ## Comunicación: cara a cara y WhatsApp
 ## Cara a cara
-La conversación cara a cara es el método más eficiente y efectivo de comunicar información al equipo, de esta manera nuestras dudas lo consultabamos entre todos para tener un ambiente de trabajo positivo 
+La conversación  cara a cara es el método más eficiente y efectivo de comunicar información al equipo, de esta manera nuestras dudas lo consultabamos entre todos para tener un ambiente de trabajo positivo 
 
 ## WhatsApp
 Utilizamos WhatsApp porque es una aplicacion muy practica mandar mensajes.
