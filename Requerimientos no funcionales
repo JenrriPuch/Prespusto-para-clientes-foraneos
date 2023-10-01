@@ -1,0 +1,12 @@
+• El sistema debe ser fácil de usar para usuarios novatos
+• Se utilizará el lenguaje Java para la creación
+• El sistema será capaz de manejar dinero en pesos mexicanos
+• El sistema deberá verificar los datos de los usuarios para una mejor seguridad
+• El sistema deberá verificar si el usuario en cuestión es una persona real con un capchat
+• El sistema será capaz de crear un guardado automático y un respaldo de estos mismos a los datos proporcionado.
+• El sistema deberá estar añadida a una red wifi para que el usuario al conectarse tenga un mejor experiencia y rendimiento.
+• El sistema debe ser capaz de operar hasta 100.000 usuarios con sesiones concurrentes
+• El administrador será el único capaz de cambiar los permisos de acceso al sistema
+• Sera un sistema hecho para un teléfono inteligente.
+ 
+ 
