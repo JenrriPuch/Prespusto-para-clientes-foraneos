@@ -24,7 +24,7 @@
 
 | RF03   |       Recomendaciones de lugares  |  
 |----------|:-------------:|
-| Prioridad:| 1 |
+| Prioridad:| 3 |
 | Descripción |Recomendara lugares cercanos y económicos que entren en el presupuesto del día según tu ubicación|
 
 ***
