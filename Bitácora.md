@@ -62,7 +62,7 @@ En caso de que la tarea haya sido tardado mucho más tiempo o haya sido más dif
 
 | Nombre |     Porcentaje de trabajo     | 
 |----------|:-------------:|
-|    Jenrri       | 35%
-|    Abner      |   35% 
-|    Angel       |  20%
+|    Jenrri       | 40%
+|    Abner      |   40% 
+|    Angel       |  10%
 |    Wilbert       | 10%   
