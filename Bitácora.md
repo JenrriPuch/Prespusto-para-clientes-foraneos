@@ -29,3 +29,40 @@ El tiempo estimado se mide en horas, puede ser de 1, 2, 3 horas o más y la difi
   - Dificil 1.5
 
 En caso de que la tarea haya sido tardado mucho más tiempo o haya sido más dificil de lo estimado, el scrum master verá si es oportuno cambiar el valor de la métrica
+| Nombre   |     Actividad     | Metrica |                
+|----------|:-------------:|-------------|
+| Jenrri|Requerimientos| Difícil|
+|       |Objetivo | Fácil
+|       |Usuarios|Fácil
+|       |Propuesta de valor|Normal
+|       |Logo| Difícil|
+
+| Abner |     Actividad     | Metrica |
+|----------|:-------------:|-------------|
+|          | Bitacora |Normal| 
+|          |Herramientas|Normal|
+|          |Requerimientos| Difícil|
+|          |Roles|Fácil|
+|          |Objetivo|Fácil|
+|          |Usuario|Fácil|
+|          |Propuesta de valor| Normal|
+|          |Metrica| Normal|
+
+| Angel |     Actividad     | Metrica |
+|----------|:-------------:|-------------|
+|          | Descripción del proceso |Normal| 
+|          |Requerimientos |Difícl|
+|          |Revisión de la gestión del proceso|Normal|
+|          |Objetivo|Fácil|
+
+| Wilbert |     Actividad     | Metrica |
+|----------|:-------------:|-------------|
+|          | Competencias |Normal| 
+|          |Objetivo|Fácil|
+
+| Nombre |     Porcentaje de trabajo     | 
+|----------|:-------------:|
+|    Jenrri       | 35%
+|    Abner      |   35% 
+|    Angel       |  20%
+|    Wilbert       | 10%   
