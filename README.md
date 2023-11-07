@@ -1,7 +1,8 @@
 # Prespuesto-para-clientes-foraneos
 PRESFOR 
 
-![COMPETENCIAS ESPECÍFICAS Son las requeridas para el desempeño de una ocupación en concreto, están relacionadas más con funciones o puestos de trabajo  (2)](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/assets/144386193/194d77f2-6b72-4299-86c6-6fe074eddaa4)
+![COMPETENCIAS ESPECÍFICAS Son las requeridas para el desempeño de una ocupación en concreto, están relacionadas más con funciones o puestos de trabajo  (2)](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/assets/144386193/bfc4a0bd-e90e-414e-9b84-bad9bd172f22)
+
 # Integrantes 
 - Abner Isbaal Brito Pérez
 - Jenrri Armin Puh Dzul
@@ -23,7 +24,9 @@ PRESFOR
 
 
   # Sketching
-  ![PRESFOR (1)](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/assets/144289868/dadd2c0c-fa98-4cef-87e2-8d8d62b9eb43)
 
-  
-![PRESFOR (2)](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/assets/144289868/03d56815-4314-4d20-b56e-8d85aa64de53)
+![interfaz1 1](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/assets/144386193/b8686a30-f24e-4e84-87f4-36ea9f7be293)
+
+
+![intefaz1 2](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/assets/144386193/ff56052c-a136-4001-b361-6fe7fd23bd14)
+
