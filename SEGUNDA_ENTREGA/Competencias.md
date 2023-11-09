@@ -14,3 +14,17 @@
 <h2>Competencias específicas</h2>
   
 <br>
+Son aquellas que se relaciona con el gasto y manejo de los gastos .
+ <br>
+Presupuesto
+<br>
+El gasto que se requieren las estrategias de ahorro
+Para poder gestionar el presupuesto y así adaptarse al ingreso semanal por lo cual nuestro software monitoriza los gastos y proporcionar recomendaciones de gastos además de un asistente virtual.
+<br>
+ Diseño
+ <br>
+La habilidad de crear un software funcional eficiente y accesible para las personas foráneos.
+Utilizando un lenguaje de programación como erramientas.
+
+
+
