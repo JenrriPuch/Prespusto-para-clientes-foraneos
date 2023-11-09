@@ -11,7 +11,7 @@
 
 
 
-<h2>Competencias específicas>/h2>
+<h2>Competencias específicas</h2>
   
 • método ágil ara el pruducto mas eficientes asi como el producto no disminuia la calidad.
 
