@@ -92,6 +92,8 @@
 | RNF008 | telefono   |  
 |----------|:-------------:|
 | Descripción |   Sera un sistema hecho para un teléfono inteligente. .|
+
+
 ## Historias de usario 
 ***
 <br>
@@ -154,6 +156,15 @@
 |----------|:-------------:|
 | Nombre de historia:| Control de calidad acerca de todas las recomendaciones que nos hace |
 | Descripción | Para saber en qué lugares ir referente a la calidad  |
+
+### Evidencias de las historias de usuario 
+-[Respues de la encuesta](https://docs.google.com/spreadsheets/d/1sQGJXjwE1rRgKfJqnGO6D2niZUk_q9B7rhHMRjA2ct4/edit?resourcekey#gid=1892431330) 
+![image](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/assets/144289868/24ede149-dbf7-4991-b8d3-be6ff7d8f34b)
+![image](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/assets/144289868/d99d5e43-18d6-4873-bd0c-7e70f2a3c6b7)
+![image](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/assets/144289868/c1bc337a-d1dc-4972-8a3e-cba6a0772257)
+![image](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/assets/144289868/d01b1a1e-0206-4b2a-affa-466c8b524307)
+![image](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/assets/144289868/e841b7ec-3f5d-4bf9-9fc6-71ec1d9fb0d2)
+![image](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/assets/144289868/e00d5604-8dc8-4648-afe1-8d2e5c8005d2)
 
 
 
