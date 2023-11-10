@@ -166,8 +166,25 @@
 ![image](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/assets/144289868/e841b7ec-3f5d-4bf9-9fc6-71ec1d9fb0d2)
 ![image](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/assets/144289868/e00d5604-8dc8-4648-afe1-8d2e5c8005d2)
 
+## Caso de uso: : Estudiante quiere saber su presupuesto diario, encontrar recomendaciones de comercios, utilzar la opción "Chat con IA"
+***
+<br>
 
+| Actor principal: Estudiante foráneo | Secuencia    |  
+|----------|:-------------:|
+| Paso 1 | El usuario deberá descargar PRESFOR |
+| Paso 2 | El usuario iniciará sesión con una cuenta Google o correo |
+| Paso 3 | El sistema solicitará contestar una encuesta al iniciar sesión (Ingresará datos personales para el funcionamiento de la aplicación. Ejemplo: ¿Con cuanto presupuesto cuentas al mes?)|
+| Paso 4 | El usuario encontrará una opción que en un cierto tiempo de días, semanas y meses se mostrará los gastos en ese periodo que ha transcurrido |
+| Paso 5 | Podrá verificar los gastos de los días en un calendario |
+| Paso 6 | Con la información proporcionada del GPS, el usuario podrá encontrar recomendaciones que proporciona el sistema de lugares cercanos, de buena calidad y económicos para comer o tiendas para comprar. |
+| Paso 7 |El usuario encontrará una opción de “Chat con IA” podrá recomendar en que gastar o ahorrar tu dinero, ayudará con cualquier duda que tengas y dará opción para gastos personales (gustos) |
 
+<br>
+
+## Diagrama de caso de uso 
+***
+<br>
 
 
 
