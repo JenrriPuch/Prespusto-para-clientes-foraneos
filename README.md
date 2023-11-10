@@ -14,7 +14,7 @@ PRESFOR
 - [Requerimientos](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/blob/main/SEGUNDA_ENTREGA/Requisistos.md)
 - [Herramientas y métodos](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/blob/main/PRIMERA_ENTREGA/Herramientas%20y%20m%C3%A9todos.md)
 - [Roles](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/blob/main/Roles.md)
-- [Bitácora](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/blob/main/Bit%C3%A1cora.md)
+- [Bitácora de la primera entrega](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/blob/main/PRIMERA_ENTREGA/Bit%C3%A1cora.md)
 - [Competencias](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/blob/main/Competencias.md)
 - [Presentación del avance](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/blob/main/Presentaci%C3%B3n%20del%20Avance.md)
 
