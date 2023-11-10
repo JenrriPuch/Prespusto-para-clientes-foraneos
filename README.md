@@ -1,7 +1,7 @@
 # Prespuesto-para-clientes-foraneos
 PRESFOR 
 
-![COMPETENCIAS ESPECÍFICAS Son las requeridas para el desempeño de una ocupación en concreto, están relacionadas más con funciones o puestos de trabajo  (2)](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/assets/144386193/bfc4a0bd-e90e-414e-9b84-bad9bd172f22)
+![Property 1=Default](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/assets/144289868/2e563815-d09e-40f3-9c1d-ae574284ceae)
 
 # Integrantes 
 - Abner Isbaal Brito Pérez
