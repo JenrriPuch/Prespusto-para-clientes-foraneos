@@ -23,7 +23,7 @@ PRESFOR
 # Entregas 
 [Primera Entrega](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/tree/main/PRIMERA_ENTREGA) 
 
-[Segunda Entrega]
+[Segunda Entrega](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/tree/main/SEGUNDA_ENTREGA) 
 
   # Links
 
