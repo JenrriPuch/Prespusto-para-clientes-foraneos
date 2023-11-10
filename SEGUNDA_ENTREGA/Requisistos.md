@@ -185,7 +185,4 @@
 ## Diagrama de caso de uso 
 ***
 <br>
-
-
-
-
+![image](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/assets/144386193/ae79c43f-59d6-4ac1-9edf-1a0d0f5989d4)
