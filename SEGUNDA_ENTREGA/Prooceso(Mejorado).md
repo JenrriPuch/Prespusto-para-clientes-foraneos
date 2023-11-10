@@ -88,6 +88,7 @@
 | Nombre de historia:| Control de calidad acerca de todas las recomendaciones que nos hace |
 | Descripción |: :Para saber en qué lugares ir referente a la calidad  |
 
+# Gestion del proceso 
 
 # Métrica de Contribución Individual
 
@@ -129,3 +130,6 @@ En caso de que la tarea haya sido tardado mucho más tiempo o haya sido más dif
 |    Abner      |   | 
 |    Ivan       |  |
 |    Wilbert       |   |
+
+# Organización y Documentación del Repositorio
+
