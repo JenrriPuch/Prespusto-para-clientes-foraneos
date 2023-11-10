@@ -11,7 +11,7 @@ PRESFOR
 
 # Contenido 
 - [Producto](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/blob/main/SEGUNDA_ENTREGA/Producto.md)
-- [Diseño](
+- [Diseño](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/blob/main/SEGUNDA_ENTREGA/Dise%C3%B1o.md)
 - [Requerimientos](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/blob/main/SEGUNDA_ENTREGA/Requisistos.md)
 - [Herramientas y métodos](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/blob/main/PRIMERA_ENTREGA/Herramientas%20y%20m%C3%A9todos.md)
 - [Roles](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/blob/main/Roles.md)
