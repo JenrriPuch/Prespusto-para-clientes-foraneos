@@ -22,3 +22,6 @@ Perfil de los usuarios
 
 ## Propuesta de valor
 Esta es una herramienta innovadora porque añade un chat con inteligencia artificial, que ayudara al usuario a contribuir a su gestión financiera, funcionara con localización GPS, brindara un reporte estadístico basado en un calendario de tus gastos diarios y semanales, al igual que te recomienda el dinero que puedes gastar diariamente y tus ahorros que administraste a la semana, también lo que te recomienda gastar en tus gustos personales.
+
+## Resumen de segunda entrega comparando con la primera
+
