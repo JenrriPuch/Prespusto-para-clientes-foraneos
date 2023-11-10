@@ -10,8 +10,8 @@ PRESFOR
 - Wilbert Alejandro Con Chan
 
 # Contenido 
-- [Producto](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/blob/main/SEGUNDA_ENTREGA/Producto.md))
-- [Requerimientos](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/blob/main/REQUERIMIENTOS.md)
+- [Producto](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/blob/main/SEGUNDA_ENTREGA/Producto.md)
+- [Requerimientos](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/blob/main/SEGUNDA_ENTREGA/Requisistos.md)
 - [Herramientas y métodos](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/blob/main/Herramientas%20y%20m%C3%A9todos.md)
 - [Roles](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/blob/main/Roles.md)
 - [Bitácora](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/blob/main/Bit%C3%A1cora.md)
