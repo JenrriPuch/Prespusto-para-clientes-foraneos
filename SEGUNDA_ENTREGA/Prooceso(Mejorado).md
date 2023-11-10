@@ -106,10 +106,28 @@ Cuando surgia algo importante y no teniamos tiempo para reunirno nos comunicabam
 Utilizamos GitHub para almacenar nuestro repositorio en linea ofrece un servicio de alojamiento de repositorios Git basado en la nube, lo que facilita que trabajemos en equipo para tener una excelente colaboración.porque es una herramienta que nos permite colaborar en equipo, es pratica y sobre todo gratis
 
 ## Monday
-Utilizamos monday para poder clasificar los requisitos funcionales referente a las fechas y a la dificultad que tendra. 
+Utilizamos monday para poder clasificar los requisitos funcionales referente a las fechas y a la dificultad que tendrá. 
 
 ## Lucidchart
-Utilizamos lucidchart con el fin de elaborar el diagrama de caso de uso, consideramos que esta es una herramienta muy facil de utilizar y muy eficaz.
+Utilizamos lucidchart con el fin de elaborar el diagrama de caso de uso, consideramos que esta es una herramienta muy fácil de utilizar y muy eficaz.
+
+# Bitácora
+
+Se llevaron a cabo dos reuniones de larga duración en las que se asignaron, elaboraron y revisaron actividades. Al finalizar la reunión, algunos miembros del equipo se quedaron para avanzar en sus tareas y brindarse apoyo.
+
+- Reunión 7 de noviembre 2023 (asignación de actividades) Inició 9:00 y Finalizó 10:30
+  - Jenrri: Producto, descripción de procesos, métrica 
+  - Abner: Refinamiento de artefactos (historia de usuarios, caso de uso, diagrama de caso de uso, cronograma), Gestión del proceso 
+  - Wilbert: Diseño, Competencias genéricas y específicas
+  - Video: Abner, Jenrri, Wilbert
+      
+- Reunión del 9 de noviembre de 2023.   Hora de inicio 8:30, 9:30 hora de descanso, 10:00 Reanudación de la reunión, Finalizo 11:20
+  - Temas que se trataron:
+  - Evolución de dificultad con las historias de usuario. 
+  - Asignación de las historias de usuario. 
+  - Especificar los criterios de aceptación de las historias de usuario
+  - Revisión de las actividades asignadas en la reunión del 7 de noviembre 2023 
+
 
 # Métrica de Contribución Individual
 
