@@ -14,3 +14,6 @@ Cuando surgia algo importante y no teniamos tiempo para reunirno nos comunicabam
 
 ## Repositorio: GitHub
 Utilizamos GitHub para almacenar nuestro repositorio en linea ofrece un servicio de alojamiento de repositorios Git basado en la nube, lo que facilita que trabajemos en equipo para tener una excelente colaboración.porque es una herramienta que nos permite colaborar en equipo, es pratica y sobre todo gratis
+
+## Monday
+Utilizamos monday para poder clasificar los requisitos funcionales referente alas fechas y a la dificultad que tendra. 
