@@ -21,7 +21,7 @@ PRESFOR
 - [Presentacion segunda parte](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/blob/main/SEGUNDA_ENTREGA/Presentacion_avance.md)
 
 # Entregas 
-[Primera Entrega]
+[Primera Entrega](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/tree/main/PRIMERA_ENTREGA) 
 
 [Segunda Entrega]
 
