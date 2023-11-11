@@ -95,6 +95,11 @@ Nuestro equipo determinó que la manera más eficiente de organizarnos y monitor
 
 # Herramientas y Métodos
 
+## Metodologia 
+Usamos el metodo agil SCRUM para una mejor organizacion apartir del proyecto y una mejor asignacion de actividades, apartir de este se fue desasarrollando la gestion del proyecto, como los requisitos, diseño, roles, metrica, etc. 
+
+## Organización y gestión de tareas 
+
 ## Cara a cara
 La conversación  cara a cara es el método más eficiente y efectivo de comunicar información al equipo, de esta manera nuestras dudas lo consultabamos entre todos para tener un ambiente de trabajo positivo 
 
@@ -110,6 +115,10 @@ Utilizamos monday para poder clasificar los requisitos funcionales referente a l
 
 ## Lucidchart
 Utilizamos lucidchart con el fin de elaborar el diagrama de caso de uso, consideramos que esta es una herramienta muy fácil de utilizar y muy eficaz.
+
+
+##  Figma
+Utilizamos este software para la creaciond del bosquejo de la interfaz osea la parte del diseño, al igual que con la creacion del logo, siendo una herramienta muy facil de utilizar y eficiente.  
 
 # Bitácora
 
@@ -146,6 +155,7 @@ En caso de que la tarea haya sido tardado mucho más tiempo o haya sido más dif
 |       |Organización y Documentación del Repositorio|  0.5  |
 |       |Validacion de interfaz|   1   |
 |       |Presentación del Avance|  1  |
+|          | Diseño | 1.5 | 
 
 | Abner |     Actividad     | Metrica |
 |----------|:-------------:|-------------|
@@ -153,10 +163,6 @@ En caso de que la tarea haya sido tardado mucho más tiempo o haya sido más dif
 |          |Gestión del Proceso| 1 |
 |          |Presentación del Avance| 1 |
 
-| Ivan |     Actividad     | Metrica |
-|----------|:-------------:|-------------|
-|          | Diseño | 1.5 | 
-|          |Representación del avance | 1 |
 
 | Wilbert |     Actividad     | Metrica |
 |----------|:-------------:|-------------|
@@ -165,10 +171,6 @@ En caso de que la tarea haya sido tardado mucho más tiempo o haya sido más dif
 
 | Nombre |     Porcentaje de trabajo     | 
 |----------|:-------------:|
-|    Jenrri       |     |
-|    Abner      |   | 
-|    Ivan       |  |
-|    Wilbert       |   |
-
-# Organización y Documentación del Repositorio
-
+|    Jenrri       |  35%   |
+|    Abner      |  35% | 
+|    Wilbert       | 30%  |
