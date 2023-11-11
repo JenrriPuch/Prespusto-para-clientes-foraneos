@@ -29,5 +29,5 @@ PRESFOR
 
   - [Repositorio](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos)
   - [Figma](https://www.figma.com/file/RFEp1TkNG41xt1Sce4KqIE/Untitled?type=design&node-id=23-125&mode=design&t=CeKsG9ksqLDJLDwa-0)
-  - [Monday]()
+  - [Monday](https://jenrripuchdzuls-team.monday.com/boards/5483391063)
 
