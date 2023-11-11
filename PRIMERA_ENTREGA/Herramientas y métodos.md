@@ -1,6 +1,8 @@
 # Prespuesto-para-clientes-foraneos - PRESFOR 
 # Herramientas y Métodos
 
+## Metodologia 
+Usamos el metodo agil SCRUM para una mejor organizacion apartir del proyecto y una mejor asignacion de actividades, apartir de este se fue desasarrollando la gestion del proyecto, como los requisitos, diseño, roles, metrica, etc. 
 ## Organización y gestión de tareas 
 Nuestro equipo determinó que la manera más eficiente de organizarnos y monitorear las actividades era en forma presencial de tal modo que los días que teníamos pocas horas de clase proponíamos una junta para monitorear como iba el proyecto.
 
@@ -17,3 +19,6 @@ Utilizamos GitHub para almacenar nuestro repositorio en linea ofrece un servicio
 
 ## Monday
 Utilizamos monday para poder clasificar los requisitos funcionales referente alas fechas y a la dificultad que tendra. 
+
+## Figma
+Nos ayudo a la creacion de bosquejos de la interfaz al igual que del logo, dando una funcion de herramienta para la ayuda. 
