@@ -1,6 +1,18 @@
 # Bosquejos de Interfaces
+## Crear cuenta
+![Untitled (2)](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/assets/144289868/f51ea3c6-acad-45b2-8719-2f7fed5f628d)
+
+## Inicio Sesion 
+![Frame 1](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/assets/144289868/d0bc4968-194f-4712-8779-056559230c2d)
+
+## Interfaz del Software
+![Untitled (1)](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/assets/144289868/c1c9ec3a-b58b-4a8b-8628-c4a95d37053b)
+
+![Frame 2](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/assets/144289868/3bb1250d-990b-47fc-b8a4-741bb1657bb3)
+
 
 # correnpondecia con los Requisitos
+Cuando hicimos interfaz tomamos en cuenta, el objetivo del producto y los requisitos, que antes ya habia surgido la idea de la interfaz antes que los requisitos, pero obviamente pusimos más requisitos y los fuimos implementando en el diseño del software, al igual que las hiztorias de usuarios y el caso de uso, que explica que puedes hacer en la app siendo nuevo usuario, tambien nos dimos cuenta que un diseño complicado, no hubiera sido lo mejor, asi que optamos por un diseño más simple y intuitivo, para un mejor manejo y mas factible, al igual que el diseño oscuro lo deternamos a partir de las ecuestas hechas a nuestros usuarios. la interfaz si corresponde a los requisitos yaque brinda las herramientas dichas antes en los requistos y pues cumple el objetivo de esos requisitos, de ayudar a los usuarios al manejo de dinero. 
 
 # Validación de Interfaces
 
