@@ -3,7 +3,7 @@
 ![Untitled (2)](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/assets/144289868/f51ea3c6-acad-45b2-8719-2f7fed5f628d)
 
 ## Inicio Sesion 
-![Frame 1](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/assets/144289868/d0bc4968-194f-4712-8779-056559230c2d)
+![Untitled (3)](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/assets/144289868/3b72a892-2a74-4c21-9c92-40ff5cf45153)
 
 ## Interfaz del Software
 ![Untitled (1)](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/assets/144289868/c1c9ec3a-b58b-4a8b-8628-c4a95d37053b)
