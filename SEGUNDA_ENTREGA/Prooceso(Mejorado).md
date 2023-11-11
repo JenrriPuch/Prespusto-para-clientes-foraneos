@@ -171,6 +171,7 @@ En caso de que la tarea haya sido tardado mucho más tiempo o haya sido más dif
 
 | Nombre |     Porcentaje de trabajo     | 
 |----------|:-------------:|
-|    Jenrri       |  35%   |
-|    Abner      |  35% | 
+|    Jenrri       |  36%   |
+|    Abner      |  34% | 
 |    Wilbert       | 30%  |
+|  Total     |   100%   |
