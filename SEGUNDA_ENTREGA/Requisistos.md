@@ -185,4 +185,5 @@
 ## Diagrama de caso de uso 
 ***
 <br>
-![image](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/assets/144386193/ae79c43f-59d6-4ac1-9edf-1a0d0f5989d4)
+
+![WhatsApp Image 2023-11-09 at 19 33 26](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/assets/144289868/2f6bd53e-4f88-4de0-b4ad-4a2d8aea49b8)
