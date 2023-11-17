@@ -8,7 +8,7 @@
 ## Interfaz del Software
 ![Untitled (1)](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/assets/144289868/c1c9ec3a-b58b-4a8b-8628-c4a95d37053b)
 
-![Frame 2](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/assets/144289868/3bb1250d-990b-47fc-b8a4-741bb1657bb3)
+![Untitled](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/assets/144289868/649363bf-fba6-4503-81f8-e89a03abd8ea)
 
 
 # correnpondecia con los Requisitos
