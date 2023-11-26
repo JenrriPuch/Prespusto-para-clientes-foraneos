@@ -102,60 +102,70 @@
 |----------|:-------------:|
 | Nombre de historia:| Un reporte de gasto |
 | Descripción |Para tener una estimación del gasto que realizo|
+|Criterios de aeptación| Suma de productos por dia, suma del gasto del dia a la semanas, suma del gasto de la semana al mes, letra color negra o blanca segun el fondo, el texto ocuparia el 70% de la pantalla|
 <br>
 
 | HU02   |      Nombre de usuario: Estudiante foráneo    |  
 |----------|:-------------:|
 | Nombre de historia:| Recomendación de establecimientos económicos |
 | Descripción |Para ahorrar y evitar gastar todo el presupuesto que tengo|
+|Criterios de aceptación| La opcion estara en el boton sandwich, se mostrara una foto del establecimiento en un mapa depediendo la comida que busques, se mostraran los precios aproximados de los lugares, tendra estrellas de calidad dependiendo de los usuarios |
 <br>
 
 | HU03   |      Nombre de usuario: Estudiante foráneo    |  
 |----------|:-------------:|
 | Nombre de historia:| : Chat con IA |
 | Descripción |Para que me de recomendaciones de alguna manera de ahorrar mi dinero |
+|criterios de aceptación| Estara en las opciones de sandwich, el fondo sera oscuro o claro segun el fondo, te respondera tus dudas refrente a pregunta sobre dinero, aprendera de tus preguntas|
 <br>
 
 | HU04   |      Nombre de usuario: Estudiante foráneo    |  
 |----------|:-------------:|
 | Nombre de historia:| Una opción que muestre una instalación medica |
 | Descripción |Para saber donde acudir cuando estemos mal de salud|
+|criterios de aceptacion|Estara en la opcion de lugares, estara en la ubicacion con su foto tendra estrellas de calidad dependiendo de los usuarios|
 <br>
 
 | HU05   |      Nombre de usuario: Estudiante foráneo    |  
 |----------|:-------------:|
 | Nombre de historia:| Una opción para poder hablar con otros estudiantes foráneos  |
-| Descripción |Para poder conversar y planificar algunas actividades entre otros estudiantes|
+| Descripción |Para poder conversar y planificar algunas actividades entre otros estudiantes
+|Criterio de aceptación|Estara en las opciones del boton sandwich, aparece el nombre del usuario al cual quieres hablar, tendra una opcion de busqueda, el color dependera del fondo que tengas|
 <br>
 
 | HU06   |      Nombre de usuario: Estudiante foráneo    |  
 |----------|:-------------:|
 | Nombre de historia:| inicio de sesión por Google o por medio de un correo y contraseña.  |
 | Descripción |Para que sea más sencillo y fácil entrar a la APP |
+|Criterios de aceptación| tendra un identificador de humanos (capchat), al poner la contraseña automaticamente entrara, opcion de entrar con google|
 <br>
 
 | HU07   |      Nombre de usuario: Estudiante foráneo    |  
 |----------|:-------------:|
 | Nombre de historia:| Atención al usuario  |
 | Descripción |Para que me ayude, si tengo una pregunta o algún problema. |
+|Criterios de aceptacion|tengan una atencion directa a un integrante del equipo de sofware|
 <br>
 
 | HU08   |      Nombre de usuario: Estudiante foráneo    |  
 |----------|:-------------:|
 | Nombre de historia:| Recomendaciones para evitar gastos hormiga |
 | Descripción |Para que me ayude, si tengo una pregunta o algún problema. |
+|Criterios de aceptacion| Estara incluido en el chat de ia y en las estrellas de calidad de ususarios|
 <br>
 
 | HU09   |      Nombre de usuario: Estudiante foráneo    |  
 |----------|:-------------:|
 | Nombre de historia:| Sistema de gastos ahorros |
 | Descripción |Para saber cuánto he ahorrado a la semana, mes o año.  |
+|Criterios de aceptación| estara en las opciones desglosadas el boton sandwich, te mostrara que dia decidista ahorra y cuanto has ahorrado hasta ahora|
 <br>
 
 | HU010 |      Nombre de usuario: Estudiante foráneo    |  
 |----------|:-------------:|
 | Nombre de historia:| Control de calidad acerca de todas las recomendaciones que nos hace |
 | Descripción | Para saber en qué lugares ir referente a la calidad  |
+|Criterios de aceptacion|Estara en la opcion de lugare, la medicion sera con estrellas, sera a partr de los usuario|
 
 ### Evidencias de las historias de usuario 
 -[Respues de la encuesta](https://docs.google.com/spreadsheets/d/1sQGJXjwE1rRgKfJqnGO6D2niZUk_q9B7rhHMRjA2ct4/edit?resourcekey#gid=1892431330) 
