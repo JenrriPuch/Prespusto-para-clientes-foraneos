@@ -10,24 +10,27 @@ PRESFOR
 - Wilbert Alejandro Con Chan
 
 # Contenido 
-- [Producto](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/blob/main/SEGUNDA_ENTREGA/Producto.md)
-- [Diseño](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/blob/main/SEGUNDA_ENTREGA/Dise%C3%B1o.md)
-- [Requerimientos](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/blob/main/SEGUNDA_ENTREGA/Requisistos.md)
-- [Herramientas y métodos](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/blob/main/PRIMERA_ENTREGA/Herramientas%20y%20m%C3%A9todos.md)
-- [Roles](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/blob/main/Roles.md)
-- [Bitácora de la primera entrega](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/blob/main/PRIMERA_ENTREGA/Bit%C3%A1cora.md)
-- [Competencias](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/blob/main/SEGUNDA_ENTREGA/Competencias.md)
-- [Presentación de la 1era parte](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/blob/main/Presentaci%C3%B3n%20del%20Avance.md)
+- [Producto](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/blob/main/TERCERA%20ENTREGA/Producto.md)
+- [Diseño](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/blob/main/TERCERA%20ENTREGA/Dise%C3%B1o.md)
+- [Requerimientos](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/blob/main/TERCERA%20ENTREGA/Requisito.md)
+- [Proceso(Mejorado)](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/blob/main/TERCERA%20ENTREGA/Proceso(mejorado).md)
+- [Pruebas](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/blob/main/TERCERA%20ENTREGA/Pruebas.md)
+- [Competencias](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/blob/main/TERCERA%20ENTREGA/Competencias.md)
+- [Presentación de la 1era parte](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/blob/main/PRIMERA_ENTREGA/Presentaci%C3%B3n%20del%20Avance.md)
 - [Presentacion segunda parte](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/blob/main/SEGUNDA_ENTREGA/Presentacion_avance.md)
+- [Presentacion Tercera parte](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/blob/main/TERCERA%20ENTREGA/Presentacion_del_avance.md) 
 
 # Entregas 
 [Primera Entrega](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/tree/main/PRIMERA_ENTREGA) 
 
 [Segunda Entrega](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/tree/main/SEGUNDA_ENTREGA) 
 
+[Tercera Entrega](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/tree/main/TERCERA%20ENTREGA)
+
   # Links
 
   - [Repositorio](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos)
   - [Figma](https://www.figma.com/file/RFEp1TkNG41xt1Sce4KqIE/Untitled?type=design&node-id=23-125&mode=design&t=CeKsG9ksqLDJLDwa-0)
   - [Monday](https://jenrripuchdzuls-team.monday.com/boards/5483391063)
+  - [Optimal_Workshop](https://9if92pks.optimalworkshop.com/optimalsort/njpavg3l)
 
