@@ -122,9 +122,11 @@ Utilizamos monday para poder clasificar los requisitos funcionales referente a l
 ## Lucidchart
 Utilizamos lucidchart con el fin de elaborar el diagrama de caso de uso, consideramos que esta es una herramienta muy fácil de utilizar y muy eficaz.
 
-
 ##  Figma
 Utilizamos este software para la creaciond del bosquejo de la interfaz osea la parte del diseño, al igual que con la creacion del logo, siendo una herramienta muy facil de utilizar y eficiente.  
+
+## Optimal Workshop
+utilizamo esta pagina web para hacer el ejemplo de card sorting donde se vera si los requerimientos cumplen con la interfaz. 
 
 # Bitácora
 
