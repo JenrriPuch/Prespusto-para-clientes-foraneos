@@ -197,3 +197,6 @@
 <br>
 
 ![WhatsApp Image 2023-11-09 at 19 33 26](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/assets/144289868/2f6bd53e-4f88-4de0-b4ad-4a2d8aea49b8)
+
+## Resumen de Artefactos 
+En este proyecto los artefactos han cambiado mucho ya que en la primera entrega no hay artefactos o casi no hay es a partir de la segunda y tercera entrega 
