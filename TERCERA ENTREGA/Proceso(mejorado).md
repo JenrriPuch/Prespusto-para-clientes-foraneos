@@ -178,7 +178,7 @@ En caso de que la tarea haya sido tardado mucho más tiempo o haya sido más dif
 
 | Wilbert |     Actividad     | Metrica |
 |----------|:-------------:|-------------|
-|          | Requisitos | 0.5 | 
+|          | Requisitos | 1 | 
 |          |Representación del avance | 1.5 |
 
 | Nombre |     Porcentaje de trabajo     | 
