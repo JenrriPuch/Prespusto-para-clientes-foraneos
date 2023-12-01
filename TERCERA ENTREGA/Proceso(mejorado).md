@@ -143,8 +143,12 @@ Se llevaron a cabo dos reuniones de larga duración en las que se asignaron, ela
   - Evolución de dificultad con las historias de usuario. 
   - Asignación de las historias de usuario. 
   - Especificar los criterios de aceptación de las historias de usuario
-  - Revisión de las actividades asignadas en la reunión del 7 de noviembre 2023 
+  - Revisión de las actividades asignadas en la reunión del 7 de noviembre 2023
+ 
+    
+ ##   Cronograma de actividades
 
+![Gráfico Tabla Cronograma Timeline de Proyecto Profesional Simple Violeta Naranja](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/assets/144289868/89e380a8-0119-45d8-95d6-e850429a97b7)
 
 # Métrica de Contribución Individual
 
