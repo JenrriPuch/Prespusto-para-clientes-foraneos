@@ -11,11 +11,12 @@ Se utiliza la herramienta Figma para elaborarlos
 
 ![Untitled](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/assets/144289868/649363bf-fba6-4503-81f8-e89a03abd8ea)
 
-![Untitled](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/assets/144289868/a6873032-c01b-4bdc-8812-8b5cebecd3bc
+![Untitled](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/assets/144289868/a6873032-c01b-4bdc-8812-8b5cebecd3bc)
 
 # Correnpondecia con los Requisitos
 Cuando hicimos interfaz tomamos en cuenta, el objetivo del producto y los requisitos, que antes ya habia surgido la idea de la interfaz antes que los requisitos, pero obviamente pusimos más requisitos y los fuimos implementando en el diseño del software, al igual que las historias de usuarios y el caso de uso, que explica que puedes hacer en la app siendo nuevo usuario, tambien nos dimos cuenta que un diseño complicado, no hubiera sido lo mejor, asi que optamos por un diseño más simple y intuitivo, para un mejor manejo y mas factible, al igual que el diseño oscuro lo determinamos a partir de las encuestas hechas a nuestros usuarios. la interfaz si corresponde a los requisitos yaque brinda las herramientas dichas antes en los requistos y pues cumple el objetivo de esos requisitos, de ayudar a los usuarios al manejo de dinero, al igual que derterminamos si cumple con una tecnica de usabilidad llamada card sorting en el cual determinamos que si cumple con todo los requisitos al igual que es usable
- Referencia:[ https://9if92pks.optimalworkshop.com/optimalsort/njpavg3l/sort ](https://9if92pks.optimalworkshop.com/optimalsort/njpavg3l) 
+
+Referencia:[ https://9if92pks.optimalworkshop.com/optimalsort/njpavg3l/sort ](https://9if92pks.optimalworkshop.com/optimalsort/njpavg3l) 
 
 # Validación de Interfaces
 
