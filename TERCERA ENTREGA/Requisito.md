@@ -199,4 +199,4 @@
 ![WhatsApp Image 2023-11-09 at 19 33 26](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/assets/144289868/2f6bd53e-4f88-4de0-b4ad-4a2d8aea49b8)
 
 ## Resumen de Artefactos 
-En este proyecto los artefactos han cambiado mucho ya que en la primera entrega no hay artefactos o casi no hay es a partir de la segunda y tercera entrega 
+En este proyecto los artefactos han cambiado mucho ya que en la primera entrega no hay artefactos o casi no hay es a partir de la segunda y tercera entrega en la cual empezamos a utilizar artefactos los cuales entendemos que son muy imortantes para mostrar algo mas vistoso para la gente, siendo parte de un material audiovisual o un material que brinda informacion, esto nos ayuda a entender mejor la información, y sintetizarla, con ayuda de los artefactos hemos desarrollado la hsitoria de usuaario, con el diagarama de caso de uso, al igual que con el diagrama de requisitos, y tambien con estadisiticas y graficas de pastel con los diseños, con todo esto llegamos a decir que es uno de los recursos mas importantes de la ingenieria de software. 
