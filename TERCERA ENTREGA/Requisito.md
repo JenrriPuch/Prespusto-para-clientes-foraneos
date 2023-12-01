@@ -205,12 +205,19 @@ lista final de requerimientos
 
 Funcionales 
 -1. Reporte de gastos
+<br>
 -2. calendario
+<br>
 -3. Recomendacion de lugares 
+<br>
 -4. chat con IA
+<br>
 -5. Encuesta de información
+<br>
 -6. inicio de sesión
+<br>
 -7. Ahorros y gastos personales
+<br>
 -8. localización
 <br>
 <br>
