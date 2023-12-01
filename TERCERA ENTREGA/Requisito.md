@@ -204,6 +204,7 @@ En este proyecto los artefactos han cambiado mucho ya que en la primera entrega 
 lista final de requerimientos
 
 Funcionales 
+<br>
 -1. Reporte de gastos
 <br>
 -2. calendario
@@ -222,13 +223,21 @@ Funcionales
 <br>
 <br>
 No Funcionales
+<br>
 -1. Teléfono
+<br>
 -2. Administrador
+<br>
 -3. sistema
+<br>
 _4. Red de entrada
+<br>
 -5. sistema de respaldo
+<br>
 -6. verificación
+<br>
 -7. privacidad de datos
+<br>
 -8. App para nuevos usuarios
 <br>
 <br>
