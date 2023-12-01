@@ -159,27 +159,29 @@ En caso de que la tarea haya sido tardado mucho más tiempo o haya sido más dif
 | Nombre   |     Actividad     | Metrica |                
 |----------|:-------------:|-------------|
 | Jenrri|Producto|  1  |
-|       |Descripcion del proceso|  1.5  |
-|       |Organización y Documentación del Repositorio|  0.5  |
-|       |Validacion de interfaz|   1   |
-|       |Presentación del Avance|  1  |
+|       |Organización y presentación del Repositorio|  0.5  |
+|       |Refinamiento de artefactos|   1   |
+|       |Evolucion de la interfaz|  1    |
+|       |Presentación del Avance|  1.5   |
 |          | Diseño | 1.5 | 
 
 | Abner |     Actividad     | Metrica |
 |----------|:-------------:|-------------|
-|          | Requisitos | 1.5 | 
-|          |Gestión del Proceso| 1 |
-|          |Presentación del Avance| 1 |
+|          | Pruebas | 1.5 | 
+|          | Bitacora | 1 |
+|          |Presentación del Avance| 1.5  |
 
 
 | Wilbert |     Actividad     | Metrica |
 |----------|:-------------:|-------------|
-|          | Competencias | 1.5 | 
-|          |Representación | 1 |
+|          | Requisitos | 0.5 | 
+|          |Representación del avance | 1.5 |
 
 | Nombre |     Porcentaje de trabajo     | 
 |----------|:-------------:|
-|    Jenrri       |  36%   |
-|    Abner      |  34% | 
+|    Jenrri       |  35%   |
+|    Abner      |  35% | 
 |    Wilbert       | 30%  |
 |  Total     |   100%   |
+
+De la segunda  a la tercera entrega no hubo muchos cambios, aunque si hubieron, pero fue para pulir el proyecto, en este caso se determino lo original del producto, de definio la lista final de requisitos, se añadio criterios de aceptacion a las historias de usuarios, al igual que la entrega final de la interfaz a travez de una guias de diseño, al igual que al cambio que tuvo de la primera a la segunda entrega, al igual que si correspondia la interfaz con los requisitos puestos en la lista final, al igual que añadimos las pruebas que hicimos y los resultados que optuvimos respecto a la interfaz en diferentes, y en el proceso no mas pulimos lo que habia cambiando las metricas, añadiendo mas reuniones a las bitacoras, siendo pocos cambios pero imprencincible para una mejora del proyecto.
