@@ -10,7 +10,7 @@
 | HU01   |      Nombre de usuario: Estudiante foráneo    |  
 |----------|:-------------:|
 |Dificultad|      8        |
-|Responsable|       Ivan       |     
+|Responsable|       Wilbert     |     
 | Nombre de historia:| Un reporte de gasto |
 | Descripción |Para tener una estimación del gasto que realizo|
 <br>
@@ -59,7 +59,7 @@
 | HU07   |      Nombre de usuario: Estudiante foráneo    |  
 |----------|:-------------:
 |Dificultad|        8       |
-|Responsable|      Ivan    |
+|Responsable|     Jenrri   |
 | Nombre de historia:| Atención al usuario  |
 | Descripción |: : Para que me ayude, si tengo una pregunta o algún problema. |
 <br>
