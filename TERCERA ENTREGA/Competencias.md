@@ -12,11 +12,11 @@
 
 ## Competencias específicas
 
-I.	Evolución de la Ingeniería de Software.	Analiza la evolución disciplinar de la Ingeniería de Software, así como las características del profesionista vinculado con la misma, de acuerdo con el marco teórico y los modelos curriculares de la disciplina.	12	6
+I.	Evolución de la Ingeniería de Software.	Analiza la evolución disciplinar de la Ingeniería de Software, así como las características del profesionista vinculado con la misma, de acuerdo con el marco teórico y los modelos curriculares de la disciplina.
 Durante la evolucion del proyecto y las 3 entregas vimos como fue evolucionando el software,  la igual que practicamos de como llevar las relaciones personales en los trabajos, como si fuera ub profesionista. 
 
 II.	Áreas de Desarrollo Software.	Analiza los principales métodos, técnicas, procedimientos y buenas prácticas utilizados en las fases de requisitos, diseño, codificación, pruebas y mantenimiento del software, de acuerdo con el cuerpo de conocimientos reconocido por la disciplina.	
-La competencia la aplique en el proyecto cuando utilize diferentes tecnicas, para las diferentes fases puestas en esta documentación, aplicando la disciplinas en las entregas con tiempo y forma.}
+La competencia la aplique en el proyecto cuando utilize diferentes tecnicas, para las diferentes fases puestas en esta documentación, aplicando la disciplinas en las entregas con tiempo y forma.
 
 III.	Modelos del Ciclo de Vida del Software.	Selecciona el Modelo de Ciclo de Vida del Software en el inicio de un proyecto, con base en las características del equipo de desarrollo, del cliente y de la problemática.	
 La competencia la aplica al empezar mi proyecto al principio con el ciclo de vida de cascada, ya que el equipo y el lider determinamos que iba de acuerdo a nuestras caracterisitcas.
