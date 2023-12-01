@@ -247,4 +247,5 @@ _4. Red de entrada
 
 
 
-![image]()
+![image](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/assets/144473716/e8a2a99e-a9b4-40f5-9358-ab0a408cd52e)
+)
