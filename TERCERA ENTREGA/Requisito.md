@@ -203,7 +203,7 @@ En este proyecto los artefactos han cambiado mucho ya que en la primera entrega 
 
 lista final de requerimientos
 
-Funcionales 
+### Funcionales 
 <br>
 -1. Reporte de gastos
 <br>
