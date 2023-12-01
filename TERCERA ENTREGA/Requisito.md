@@ -222,6 +222,9 @@ lista final de requerimientos
 -8. localización
 <br>
 <br>
+
+
+
 ### No Funcionales
 <br>
 -1. Teléfono
