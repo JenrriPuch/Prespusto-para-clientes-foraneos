@@ -24,7 +24,7 @@
 | RF04   |      Chat con IA     |  
 |----------|:-------------:|
 | Prioridad:| 3 |
-| Descripción |Añadir un chat con inteligencia artificial que te recomienda en que gastar o ahorrar tu dinero y que te ayue a cualqueir duda que tengas respecto a tu presupuesto y igual a darte opciones en lo que puedas gastar|
+| Descripción |Añadir un chat con inteligencia artificial que te recomienda en que gastar o ahorrar tu dinero y que te ayude a cualquier duda que tengas respecto a tu presupuesto y igual a darte opciones en lo que puedas gastar|
 <br>
 
 
