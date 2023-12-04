@@ -139,11 +139,11 @@ Duración del proyecto =  0.84 meses ósea poco menos de un mes = 25 dias= 609 h
 
 
 
-##configuracion
+# Elige dos artefactos que se generaron como parte del proceso de tu proyecto y realiza una auditoría de la gestión de la configuración del software, indicando si se llevó a cabo su configuración y versionamiento. A continuación, presenta un informe detallado al respecto:
 
 Proyecto: presupuesto para clientes foráneos 
 
-Artefacto 1: requerimientos 
+## Artefacto 1: requerimientos 
 
 <br>
 1. Políticas y Procedimientos:
@@ -185,7 +185,7 @@ Se realizaran pruebas para verificar que los requisitos se cumplan
 Establecer un tiempo para volver realizar una configuración
 
 
- ###Artefacto 2: diseño del sistema 
+ ## Artefacto 2: diseño del sistema 
 
 <br>
 1. Políticas y Procedimientos:
