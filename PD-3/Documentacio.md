@@ -204,8 +204,8 @@ Establecer un tiempo para volver realizar una configuración
 4. Gestión de Versiones:
    Documentar los cambios de las versiones
 En el diseño del sistema 
-<br>
 
+<br>
 5. Auditoría de Documento:
    Garantízar que los diseños sea están limitados sus revisiones por los miembros del equipo
 
