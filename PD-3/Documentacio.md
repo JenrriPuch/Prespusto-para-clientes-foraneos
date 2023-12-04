@@ -135,3 +135,96 @@ Duración del proyecto =  0.84 meses ósea poco menos de un mes = 25 dias= 609 h
 # Presenta un diagrama de Gantt de la planeación y calendarización de las actividades llevadas a cabo en un sprint de tu elección (considera hitos, fecha iniciales y finales para las actividades, así como los responsables de cada actividad)
 
 ![image](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/assets/144289868/c3410551-7b0f-40cb-a96d-50be6b710a48)
+
+
+
+
+##configuracion
+
+Proyecto: presupuesto para clientes foráneos 
+
+Artefacto 1: requerimientos 
+
+<br>
+1. Políticas y Procedimientos:
+Políticas
+Los cambios en los requisitos debe estar respaldados por unos solicitud a equipo
+Procedimiento todos los miembros deben de estar de acuerdo al cambio 
+
+<br>
+2. Identificación de Configuración:
+ Identificar el elemento que será gestionado
+
+<br>
+3. Control de Cambios:
+   Solicitar el cambio al grupo que se encarga de gestionar los cambios
+ 
+<br>
+4. Gestión de Versiones:
+  Cada versión tendrá sus elementos únicos
+Se mantendrá unq documentación de las versiones pasadas
+
+<br>
+5. Auditoría de Repositorio:
+   Garantízar que los permisos estén bien distribuidos
+
+<br>
+6. Registro de Configuración:
+ Se llévara los registros de fechas y cambios de la configuración en los requisitos 
+
+<br>
+7-. **Seguridad y Acceso:**
+   Los requisitos no podrán ser medicados por alguien que no se el encargado de ASER lo.
+
+<br>
+8. Pruebas de Restauración:.
+Se realizaran pruebas para verificar que los requisitos se cumplan 
+
+<br>
+9. seguimiento de Desviaciones:
+Establecer un tiempo para volver realizar una configuración
+
+
+ ###Artefacto 2: diseño del sistema 
+
+<br>
+1. Políticas y Procedimientos:
+   Realizar evaluaciones de los requisitos antes de iniciar el diseño 
+
+
+<br>
+2. Identificación de Configuración:
+   Identificar el cambio del diseño 
+
+<br>
+3. Control de Cambios:
+   Presentar la solicitud del cambio del diseño del sistema 
+
+<br>
+4. Gestión de Versiones:
+   Documentar los cambios de las versiones
+En el diseño del sistema 
+<br>
+
+5. Auditoría de Documento:
+   Garantízar que los diseños sea están limitados sus revisiones por los miembros del equipo
+
+<br>
+6. Registro de Configuración:
+   Registrar los diseños anteriores con lujo de detalles
+
+<br>
+7. Seguridad y Acceso:
+Único acceso al los responsables de la documentación
+
+<br>
+8. Pruebas de Restauración:
+Realizar plan de Pruebas antes de iniciar el diseño 
+
+<br>
+9. Seguimiento de Desviaciones:
+Gestionar el tiempo de configuración 
+
+<br><br>
+Conclusión General:
+Los dos artefactos cumplen lo necesario para ASER la auditoría de gestión el cuál es casi como las procesos de elaboración para poder tener una idea de que es lo que asé configurara y el tiempo  y cuando se elaboran estás configuración esto abarca 
