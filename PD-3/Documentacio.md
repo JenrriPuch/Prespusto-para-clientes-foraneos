@@ -228,3 +228,28 @@ Gestionar el tiempo de configuración
 <br><br>
 Conclusión General:
 Los dos artefactos cumplen lo necesario para ASER la auditoría de gestión el cuál es casi como las procesos de elaboración para poder tener una idea de que es lo que asé configurara y el tiempo  y cuando se elaboran estás configuración esto abarca 
+### Comparación McCall y Boehm
+| Factores de calidad    |      McCall    | Boehm |
+|----------|----------|:-------------:|
+| Corrección | X | X |
+| Mantenibilidad |X  | X |
+| Fiabilidad  | X | X |
+| Integridad  | X | X |
+| Usabilidad | X | X |
+| Eficiencia | X | X |
+| Flexibilidad | X | X |
+| Reutilización| X | X |
+| Portabilidad | X | X |
+| Claridad | X | X |
+| Modificabilidad |  | X |
+| Documentación|  | X |
+| Comprensibilidad|  | X |
+<br>
+
+El modelo de calidad propuesto por McCall se centra en 11 factores de calidad agrupados en tres categorías: operación, revisión y transición. Estos factores incluyen fiabilidad, eficiencia, mantenibilidad, entre otros.
+ Por otro lado, el modelo de calidad de Boehm se enfoca en características como corrección, confiabilidad, eficiencia, integridad y usabilidad. Ambos modelos comparten similitudes al abordar la calidad del software, pero difieren en la estructura y enfoque específico de los atributos de calidad.
+<br>
+
+## McCall o Boehm
+Creemos que al iniciar nuestro proyecto el modelo más factible de utilizar era el Boehm, ya que al principio desconocíamos cual era el enfoque principal del proyecto, debido eso Boehm es uno de los modelos que, aunque no se tenga claro el enfoque y este vaya cambiando de requisitos que no están complemente definidos, te permite una mayor flexibilidad y de una manera más adaptable  
+
