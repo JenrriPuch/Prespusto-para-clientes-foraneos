@@ -1,4 +1,26 @@
 # Pruebas 
+| Requisitos funcionales   |  ¿Se alcanzaron los requisitos funcionales?  |  
+|----------|:-------------:|
+| Reporte de gatos |      Si       |
+| Calendario |      Si       |
+| Recomendaciones de lugares |      Si       |
+| Chat con IA |      Si       |
+| Encuesta de infromación |      Si       |
+| Inicio de sesión |      Si       |
+| Ahorros y gustos personales |      Si       |
+| Localización |      Si       |
+
+| Requisitos funcionales   |  ¿Se alcanzaron los requisitos no funcionales?  |  
+|----------|:-------------:|
+| App para nuevos usuarios |      Si       |
+| Privacidad de datos |      Si       |
+| Verificacion |      Si       |
+| Sistema de guardado |      Si       |
+|Red para entrar |      Si       |
+| Sistema 100.000 usuarios con sesiones concurrentes |      Si       |
+| administrador |      Si       |
+| telefono |      Si       |
+
 ## Iphone
 ![Captura de pantalla 2023-12-04 070640](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/assets/144386193/6dc26101-25e2-4e21-8d7b-3f42f22eb9bd)
 
