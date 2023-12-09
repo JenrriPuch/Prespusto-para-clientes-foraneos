@@ -28,3 +28,4 @@ V.	Factores Humanos en Ingeniería de Software.	Identifica los principales facto
 La competencia la utilize para identicar que caracterisitcas tenia el equipo para asignar las tareas, al igual que decidimos utilizar mejor la disciplinar para un mejor proyedcto. 
 
 ## Critica
+Consideramos que para mejorar el curso que estamos finalizando, sería beneficioso incorporar actividades prácticas más frecuentes, quizás dos veces a la semana. Además, creemos que sería necesario aumentar la cantidad de horas de clase para este curso, dado que es fundamental para nosotros, estudiantes de ingeniería en software. Además, identificamos un factor que consideramos crucial para mejorar: sería preferible evitar clases mixtas y optar únicamente por clases presenciales. Esto proporcionaría mayor comodidad para nosotros, estudiantes de las UMT. Por otro lado, destacamos que este curso ha sido muy bueno, ya que hemos aprendido varias cosas nuevas que algunos desconocíamos. 
