@@ -19,7 +19,7 @@
 |Red para entrar |      Si       |
 | Sistema 100.000 usuarios con sesiones concurrentes |      Si       |
 | administrador |      Si       |
-| telefono |      Si       |
+| telefono y iPads. |      Si       |
 
 ## Cambios 
 Dado que la aplicación está destinada a estudiantes foráneos, quienes en ocasiones pueden necesitar utilizar otros dispositivos para acceder a la aplicación, hemos decidido implementarla también para iPad. De esta manera, la aplicación estará disponible tanto para teléfonos celulares como para iPads.
