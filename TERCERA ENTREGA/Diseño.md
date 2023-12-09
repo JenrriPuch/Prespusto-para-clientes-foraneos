@@ -34,5 +34,12 @@ Evidencia en Diagrama
 ![image](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/assets/144289868/2704262a-091f-45ca-bfbb-fb52077a0d63)
 
 
+# Evolución de interfaz
+## Primero bocetos que hicimos en la primera entrega:
+![image](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/assets/144289868/9bc1a854-30e3-495b-9a50-f8adb554fa1a)
+
+![image](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/assets/144289868/239375c5-f59a-46dd-a457-1bcb30bce824)
+
+
 # Resumen de las interfaz
 En la primera entrega la interfaz fue simple y monotona sin ningun detalle porque lo hicimos con canva y esta herramienta no nos ayudo en el desarrollo de interfaz, pero a partir de la segunda entrega tomamos de boceto el de la primera entrega y con ayuda de la herramienta figma desarrollamos nuestras interfaces con colores relativos al concepto y validandonos mediante encuestas hechas a lo usuarios, haciendo varias de acuerdo a los requisitos funcionales. En la tercera entrega añadimos 2 interfaces nuevas, al igual que hicimos que correpponda a los rrquisitos mediante un tecnica de usabbilidad, tambien añadimos mas modelos en la oartes de pruebas de como se veria si estuviera en otros dispositivos mostrando que tan flexibles son para otros dispositivos, tambien pulimos algunos detalles de las interfaces que nos dimos cuenta, al igual que añadimos la evolucion que tuvimos en nuestras interfaz mostrando desde la primera entrega hasta esta ultima. 
