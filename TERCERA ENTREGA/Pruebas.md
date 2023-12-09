@@ -10,7 +10,7 @@
 | Ahorros y gustos personales |      Si       |
 | Localización |      Si       |
 
-| Requisitos funcionales   |  ¿Se alcanzaron los requisitos no funcionales?  |  
+| Requisitos no funcionales   |  ¿Se alcanzaron los requisitos no funcionales?  |  
 |----------|:-------------:|
 | App para nuevos usuarios |      Si       |
 | Privacidad de datos |      Si       |
@@ -20,6 +20,13 @@
 | Sistema 100.000 usuarios con sesiones concurrentes |      Si       |
 | administrador |      Si       |
 | telefono |      Si       |
+
+## Cambios 
+Dado que la aplicación está destinada a estudiantes foráneos, quienes en ocasiones pueden necesitar utilizar otros dispositivos para acceder a la aplicación, hemos decidido implementarla también para iPad. De esta manera, la aplicación estará disponible tanto para teléfonos celulares como para iPads.
+
+## Mejoras 
+Al implementar la aplicación también para iPad, hemos mejorado la pantalla principal, y se notarán diferencias entre la versión para iPad y la de los teléfonos celulares. En el iPad, aprovechamos el mayor espacio disponible para distribuirlo de la mejor manera posible. A pesar del espacio reducido en los teléfonos celulares, el diseño quedó excelente y nos esforzamos por distribuirlo de la mejor manera. Consideramos que cada aspecto de la aplicación ha experimentado mejoras significativas
+
 
 ## Iphone
 ![Captura de pantalla 2023-12-04 070640](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/assets/144386193/6dc26101-25e2-4e21-8d7b-3f42f22eb9bd)
