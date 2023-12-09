@@ -89,9 +89,9 @@
 | Descripción |   El administrador será el único capaz de cambiar los permisos de acceso al sistema .|
 
 
-| RNF008 | telefono   |  
+| RNF008 | telefono y iPads.   |  
 |----------|:-------------:|
-| Descripción |   Sera un sistema hecho para un teléfono inteligente. .|
+| Descripción |   Sera un sistema hecho para teléfonos inteligentes y iPads.|
 
 
 ## Historias de usario 
