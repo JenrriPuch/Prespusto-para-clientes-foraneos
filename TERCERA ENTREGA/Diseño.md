@@ -6,6 +6,9 @@ Se utiliza la herramienta Figma para elaborarlos
 ## Inicio Sesion 
 ![Untitled (3)](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/assets/144289868/3b72a892-2a74-4c21-9c92-40ff5cf45153)
 
+## Encuesta inicial
+![image](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/assets/144289868/e0c6fb6d-17d2-4ad8-bcd8-7ec5ea606ab7)
+
 ## Interfaz del Software
 ![Untitled (1)](https://github.com/JenrriPuch/Prespusto-para-clientes-foraneos/assets/144289868/c1c9ec3a-b58b-4a8b-8628-c4a95d37053b)
 
